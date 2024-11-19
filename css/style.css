@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(197, 197, 197);
+}
+#header{
+ 
+    padding: 20px ;
+    background-color: #fff;
+}
+
+#logo{
+    background-color: #fff;
+}
+
+#titolo-logo{
+    background-color: #fff;
+    font-size: 32px;
+    display: inline-block;
+    transform: translateY(-20px)
+    
+}
