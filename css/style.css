@@ -91,4 +91,36 @@ background-color: gray;
     padding: 3px;
 }
 
+.box {
+    margin-left: 10px;
+    font-size: 10px;
+    color: white;
+    border-radius: 10px;
+    padding: 5px 10px;
+}
+
+.box.blue {
+    background-color: #3791e6;
+}
+
+.box.purple {
+    background-color: purple;
+}
+
+.box.green {
+    background-color: green;
+}
+
+.box.orange {
+    background-color: orange;
+}
+
+.box.pink {
+    background-color: pink;
+}
+
+.box.yellowgreen {
+    background-color: yellowgreen;
+}
+
 
