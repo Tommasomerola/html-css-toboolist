@@ -71,4 +71,24 @@ background-color: gray;
     margin: 10px;
 }
 
+/* correto */
+.correct::before {
+    content: "\2713";
+    font-size: 7px;
+    color: green;
+    border: 2px solid green;
+    border-radius: 50%;
+    padding: 3px 3px;
+}
+
+/* sbagliato */
+.incorrect::before {
+    content: "\2715";
+    font-size: 7px;
+    color: red;
+    border: 2px solid red;
+    border-radius: 50%;
+    padding: 3px;
+}
+
 
