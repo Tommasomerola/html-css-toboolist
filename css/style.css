@@ -29,3 +29,30 @@
 body{
 background-color: gray;
 }
+
+#main{
+    background-color: #fff;
+    width: 80%;
+    margin: 40px auto;
+    padding: 20px 50px;
+
+}
+#div{
+    margin-bottom: 4%;
+}
+
+#selezione1{
+    color: #fff;
+    border : solid 2px;
+    padding: 8px;
+    background-color: rgb(36, 131, 255);
+    border-radius: 10px;
+}
+
+#selezione2{
+    color: gray;
+    border : solid 2px;
+    padding: 8px;
+    background-color: #fff;
+    border-radius: 10px;
+}
